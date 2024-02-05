@@ -110,8 +110,7 @@ function App() {
       { id: v1(), title: 'Js', isDone: true },
       { id: v1(), title: 'React', isDone: false },
       { id: v1(), title: 'Redux', isDone: true },
-      { id: v1(), title: 'Hooks', isDone: true },
-      { id: v1(), title: 'Lalala', isDone: false }],
+      { id: v1(), title: 'Hooks', isDone: true }
     [toDoList2]: [
       { id: v1(), title: 'Book', isDone: true },
       { id: v1(), title: 'Milk', isDone: true }]
